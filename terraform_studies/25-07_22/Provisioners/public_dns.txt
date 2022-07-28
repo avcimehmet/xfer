@@ -1,0 +1,4 @@
+public dns: ec2-54-165-97-151.compute-1.amazonaws.com
+public dns: ec2-54-161-0-120.compute-1.amazonaws.com
+public dns: ec2-54-164-110-250.compute-1.amazonaws.com
+public dns: ec2-54-172-217-101.compute-1.amazonaws.com
